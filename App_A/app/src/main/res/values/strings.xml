@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App_A</string>
+    <string name="basic_list">基本布局</string>
+    <string name="equipment_list">设备列表</string>
+</resources>

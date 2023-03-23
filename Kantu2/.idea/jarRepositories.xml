@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ccbfc6c8-00e9-4b71-af99-e9e08ea9b1c9" />
+      <option name="name" value="ccbfc6c8-00e9-4b71-af99-e9e08ea9b1c9" />
+      <option name="url" value="https:// maven { url 'https://jitpack.io' }" />
+    </remote-repository>
+  </component>
+</project>

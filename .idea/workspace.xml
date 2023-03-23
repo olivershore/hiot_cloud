@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3eec86d5-5cd8-4604-b4a4-a7875ce26504" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/Kantu2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/androidTest/java/com/example/kantu2/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/java/com/example/kantu2/activity/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/java/com/example/kantu2/activity/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/java/com/example/kantu2/activity/SplashActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/java/com/example/kantu2/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/java/com/example/kantu2/utils/ImageUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/java/com/example/kantu2/utils/SharedPreferencesUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/java/com/example/kantu2/utils/ValidatorUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/drawable/login_button_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/drawable/splash_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/drawable/splash_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/drawable/splash_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/layout/activity_splash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/mipmap-hdpi/huatec_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/mipmap-hdpi/icon_password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/mipmap-hdpi/icon_user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/app/src/test/java/com/example/kantu2/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantu2/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kantu/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kantu/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kantu/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kantu/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kantu/app/src/main/java/com/example/kantu/activity/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kantu/app/src/main/java/com/example/kantu/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kantu/app/src/main/java/com/example/kantu/utils/ImageUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kantu/app/src/main/java/com/example/kantu/utils/SharedPreferencesUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kantu/app/src/main/java/com/example/kantu/utils/ValidatorUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kantu/app/src/main/res/drawable/login_button_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kantu/app/src/main/res/drawable/splash_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kantu/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kantu/app/src/main/res/mipmap-hdpi/icon_password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kantu/app/src/main/res/mipmap-hdpi/icon_user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kantu/app/src/main/res/values-v21/themes.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2NMAuZSFGTmy2eRgQg7fRBbfCOY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "D:/AndroidProjects/Kantu2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="3eec86d5-5cd8-4604-b4a4-a7875ce26504" name="变更" comment="" />
+      <created>1679463808231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679463808231</updated>
+    </task>
+    <servers />
+  </component>
+</project>

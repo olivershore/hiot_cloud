@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">设备列表</string>
-    <string name="basic_list">基本列表</string>
-    <string name="equipment_list">设备列表</string>
-    <string name="equipment_title">设备标题</string>
-    <string name="equipment_description">设备描述</string>
-    <string name="error_picture">错误图片</string>
-</resources>
